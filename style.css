@@ -48,11 +48,11 @@ h1 {
 }
 
 .main-body {
-  background: lightgray;
+  background: green;
 }
 
 section {
-  background: whitesmoke;
+  background: blue;
 }
 
 <<<<<<< HEAD
@@ -90,7 +90,7 @@ footer > .p2 {
 }
 
 footer > .p1 > a {
-  color: lightgray;
+  color: white;
 }
 
 footer > .p1 > a:hover {
