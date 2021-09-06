@@ -21,7 +21,7 @@ section > img {
 }
 
 nav ul li a {
-  color: lightsalmon;
+  color: green;
   font-size: 1.5em;
   text-decoration: none;
 }
@@ -32,13 +32,13 @@ a {
 
 .begin {
   text-align: center;
-  padding: 50px;
+  padding: 150px;
   letter-spacing: 2px;
 }
 
 h1 {
   font-size: 3em;
-  color: crimson;
+  color: blue;
   padding-bottom: 10px;
 }
 
@@ -55,6 +55,7 @@ section {
   background: whitesmoke;
 }
 
+<<<<<<< HEAD
 .section-1,
 .section-2,
 .section-3,
@@ -64,6 +65,8 @@ section {
   align-items: center;
 }
 
+=======
+>>>>>>> bb92918 (writing CSS)
 .end {
   text-align: center;
   font-size: 1.8em;
@@ -94,6 +97,7 @@ footer > .p1 > a:hover {
   text-decoration: none;
   color: aqua;
 }
+<<<<<<< HEAD
 
 /* Flexbox */
 .banner {
@@ -110,3 +114,5 @@ main {
   flex-wrap: wrap;
   flex: 1;
 }
+=======
+>>>>>>> bb92918 (writing CSS)
