@@ -55,6 +55,15 @@ section {
   background: whitesmoke;
 }
 
+.section-1,
+.section-2,
+.section-3,
+.section-4 {
+  width: 400px;
+  height: 300px;
+  align-items: center;
+}
+
 .end {
   text-align: center;
   font-size: 1.8em;
@@ -84,4 +93,20 @@ footer > .p1 > a {
 footer > .p1 > a:hover {
   text-decoration: none;
   color: aqua;
+}
+
+/* Flexbox */
+.banner {
+  display: flex;
+  justify-content: space-between;
+}
+
+.banner > .nav > ul {
+  display: flex;
+}
+
+main {
+  display: flex;
+  flex-wrap: wrap;
+  flex: 1;
 }
